@@ -119,7 +119,11 @@ blender只通过原点来识别模型。
 ## 坐标轴切换
 
 1. g + x/y/z是全局坐标
-
 2. g +  x/y/z +  x/y/z是局部坐标
-
 3. 单独查看选中物体 = /
+
+
+
+## 禁用内容被选中
+
+1. 用<img src="Blender笔记.assets/Screenshot 2025-08-06 091458.png" style="zoom:50%;" />
